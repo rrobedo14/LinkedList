@@ -2,7 +2,7 @@ from SingleLink import SingleLinkedList
 
 llist = SingleLinkedList()
 
-llist.insert_begin(3)
+llist.insert_begin(25)
 llist.printList()
 llist.insert_begin(4)
 llist.printList()
